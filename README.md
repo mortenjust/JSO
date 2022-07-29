@@ -12,7 +12,7 @@
          body:encodableBody)
  ```
  
- With bearer
+ With bearer 
  
  ```swift
  let response:ReturnType = try await JSO.post(
