@@ -27,5 +27,3 @@
  ```swift
  let response = try await JSO<ReturnType>.post(...
  ```
- 
- 
